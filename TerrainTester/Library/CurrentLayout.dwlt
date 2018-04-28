@@ -20,7 +20,7 @@ MonoBehaviour:
   m_ShowMode: 4
   m_Title: 
   m_RootView: {fileID: 2}
-  m_MinSize: {x: 950, y: 392}
+  m_MinSize: {x: 950, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &2
 MonoBehaviour:
@@ -43,7 +43,7 @@ MonoBehaviour:
     y: 0
     width: 1904
     height: 981
-  m_MinSize: {x: 950, y: 392}
+  m_MinSize: {x: 950, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &3
 MonoBehaviour:
@@ -106,10 +106,10 @@ MonoBehaviour:
     y: 30
     width: 1904
     height: 931
-  m_MinSize: {x: 679, y: 342}
-  m_MaxSize: {x: 12004, y: 8042}
+  m_MinSize: {x: 683, y: 342}
+  m_MaxSize: {x: 12008, y: 8042}
   vertical: 0
-  controlID: 79
+  controlID: 60
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -130,10 +130,10 @@ MonoBehaviour:
     y: 0
     width: 1551
     height: 931
-  m_MinSize: {x: 404, y: 342}
-  m_MaxSize: {x: 8004, y: 8042}
+  m_MinSize: {x: 406, y: 342}
+  m_MaxSize: {x: 8006, y: 8042}
   vertical: 1
-  controlID: 80
+  controlID: 61
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -154,10 +154,10 @@ MonoBehaviour:
     y: 0
     width: 1551
     height: 574
-  m_MinSize: {x: 404, y: 221}
-  m_MaxSize: {x: 8004, y: 4021}
+  m_MinSize: {x: 406, y: 221}
+  m_MaxSize: {x: 8006, y: 4021}
   vertical: 0
-  controlID: 81
+  controlID: 62
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -176,8 +176,8 @@ MonoBehaviour:
     y: 0
     width: 475
     height: 574
-  m_MinSize: {x: 200, y: 200}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 202, y: 221}
+  m_MaxSize: {x: 4002, y: 4021}
   m_ActualView: {fileID: 13}
   m_Panes:
   - {fileID: 13}
@@ -201,8 +201,8 @@ MonoBehaviour:
     y: 0
     width: 1076
     height: 574
-  m_MinSize: {x: 200, y: 200}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 204, y: 221}
+  m_MaxSize: {x: 4004, y: 4021}
   m_ActualView: {fileID: 12}
   m_Panes:
   - {fileID: 14}
@@ -254,8 +254,8 @@ MonoBehaviour:
     y: 0
     width: 353
     height: 931
-  m_MinSize: {x: 275, y: 50}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 277, y: 71}
+  m_MaxSize: {x: 4002, y: 4021}
   m_ActualView: {fileID: 18}
   m_Panes:
   - {fileID: 18}
@@ -367,9 +367,9 @@ MonoBehaviour:
   m_PersistentViewDataDictionary: {fileID: 0}
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 402b0000
-    m_LastClickedID: 0
-    m_ExpandedIDs: 5e33ffff9efbffff00000000
+    m_SelectedIDs: 2a2d0000
+    m_LastClickedID: 11562
+    m_ExpandedIDs: 9efbffff00000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -453,7 +453,7 @@ MonoBehaviour:
   m_Rotation:
     m_Target: {x: 0.0088354945, y: -0.93768835, z: 0.34654146, w: 0.023908108}
     speed: 2
-    m_Value: {x: 0.0088354945, y: -0.93768835, z: 0.34654146, w: 0.023908108}
+    m_Value: {x: -0.0088354945, y: 0.9376884, z: -0.3465415, w: -0.023908108}
   m_Size:
     m_Target: 151.96527
     speed: 2
@@ -535,18 +535,18 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 0
     m_Folders:
-    - Assets/Standard Assets/Environment/Water/Water/Materials
+    - Assets
   m_ViewMode: 1
   m_StartGridSize: 16
   m_LastFolders:
-  - Assets/Standard Assets/Environment/Water/Water/Materials
+  - Assets
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\ge0758092\Desktop\MorelMadness\TerrainTester
   m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 257}
-    m_SelectedIDs: da270000
-    m_LastClickedID: 10202
+    scrollPos: {x: 0, y: 0}
+    m_SelectedIDs: d4270000
+    m_LastClickedID: 10196
     m_ExpandedIDs: 00000000d4270000fa27000018280000282800004e28000050280000ac280000e62800006e29000082290000b02900000a2a00001a2a00004c2a0000322b0000642b0000b02b0000042c00000c2c0000482c0000522c0000962c0000a42c000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -575,7 +575,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000d4270000fa27000018280000282800004e28000050280000e62800006e29000082290000b02900001a2a00004c2a0000322b0000642b0000b02b0000042c00000c2c0000482c0000522c0000a42c0000
+    m_ExpandedIDs: 00000000d4270000fa27000018280000282800004e28000050280000ac280000e62800006e29000082290000b02900000a2a00001a2a00004c2a0000322b0000642b0000b02b0000042c00000c2c0000482c0000522c0000962c0000a42c0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -600,24 +600,24 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_ListAreaState:
-    m_SelectedInstanceIDs: 402b0000
-    m_LastClickedInstanceID: 11072
+    m_SelectedInstanceIDs: 2a2d0000
+    m_LastClickedInstanceID: 11562
     m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: c6230000182b00008c2a00003e2a00008829000038290000ea3300009e2f00002e280000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: SpawnShroom
-      m_OriginalName: SpawnShroom
+      m_Name: 
+      m_OriginalName: 
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: 1996
+      m_UserData: 0
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
-      m_OriginalEventType: 0
+      m_OriginalEventType: 11
       m_IsRenamingFilename: 1
       m_ClientGUIView: {fileID: 10}
     m_CreateAssetUtility:
